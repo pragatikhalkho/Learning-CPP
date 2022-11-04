@@ -36,6 +36,18 @@ int main()
    // myfunc("kendall");
    // myfunc("kylie");
 
+// char choice='B';
+// switch (choice)
+// {
+// case 'A': cout<<"90-100"; 
+//    break;
+// case 'B':cout<<"80-90"; 
+//    break;
+// case 'C':cout<<"70-80"; 
+//    break;
 
+// default: cout<<"Fail"; 
+//    break;
+// }
 return 0;
 }
